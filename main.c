@@ -1,3 +1,5 @@
+//this is serious game
+
 #include<stdio.h>
 
 int main()
